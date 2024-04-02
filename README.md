@@ -1,4 +1,4 @@
-### Hi there 👋
+자바스크립트 좋아하시나요? 😄
 
 <!--
 **sht02048/sht02048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
